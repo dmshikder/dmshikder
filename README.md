@@ -15,8 +15,7 @@ Skills: JS / CSS / HTML
 
 #### Things I code with
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmshikder&show_icons=true)    
+   
 
 ![GitHub metrics](https://metrics.lecoq.io/dmshikder)  
 
