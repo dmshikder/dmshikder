@@ -13,7 +13,8 @@ Skills: JS / CSS / HTML
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmshikder) 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/dostmohammadshikder)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmshikder)](https://github.com/anuraghazra/github-readme-stats)
+#### Things I code with
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)] (#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmshikder&show_icons=true)  
 
