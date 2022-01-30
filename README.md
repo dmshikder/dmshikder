@@ -23,3 +23,4 @@ Skills: JS / CSS / HTML
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dmshikder)  
 
 ![Profile views](https://gpvc.arturio.dev/dmshikder)  
+![dmshikder's github stats](https://github-readme-stats.vercel.app/api?username=dmshikder&count_private=true&theme=tokyonight&hide=contribs,prs)
