@@ -1,6 +1,6 @@
-![Front End Web developer](https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?t=st=1654597549~exp=1654598149~hmac=5121ce862a8aeeb0132f2730c06376f0d683e581b20c1ecc324e794056babf86&w=1800)
+
 ## Assalamu 'Alaikum, I'm Dost Mohammad Shikder
-#### Front-End Developer
+#### Network Engineer
 I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I pride myself on doing quality work and maintaining excellent communication. 
 
 Skills: JS / CSS / HTML
