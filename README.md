@@ -1,12 +1,12 @@
 
 ## Assalamu 'Alaikum, I'm Dost Mohammad Shikder
 #### Network Engineer
-I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I pride myself on doing quality work and maintaining excellent communication. 
+I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I pride myself on doing quality work and maintaining excellent communication. 
 
-Skills: JS / CSS / HTML
+Skills: IT operation / Network Infrastructure Management / Security Compliance
 
-- 🔭 I’m currently working on Ruhaniyat Academy 
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently working on KPMG Bangladesh 
+- 🌱 I’m currently learning Cyber Security / Microsoft Azure Administrator
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dmshikder21)
